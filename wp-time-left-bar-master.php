@@ -18,7 +18,6 @@ define( 'WP_TLBM_MINIMUM_WP_VERSION', '3.2' );
 define( 'WP_TLBM_PRE_FIX', "wp_tlbm_");
 define( 'WP_TLBM_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
 define( 'WP_TLBM_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
-define( 'WP_TLBM_DELETE_LIMIT', 100000 );
 
 
 include(WP_TLBM_PLUGIN_DIR . '/includes/functions.php');
